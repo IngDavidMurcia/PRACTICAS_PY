@@ -1,1 +1,2 @@
 Este es la linea del comit 1. inicializando file
+Esta es el segundo comint. "se inserto la segunda linea de codigo"
