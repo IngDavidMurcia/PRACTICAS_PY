@@ -1,3 +1,14 @@
+#CENTRO TECNOLOGICO DEL MOBILIARIO 
+#SENA REGIONAL ANTIOQUIA
+#ANÁLISIS Y DESARROLLO DE SISTEMAS DE INFORMACION - ADSI
+#AUTOR: Ing David Murcia - @IngDavidMurcia - davidmurcia001@gmail.com
+
+
+#EJERCICIO CRUD EN PYTHON --AGENDA DE CONTACTOS--
+# Tematicas evaluadas: Programacion estructurada, Poo, funciones lambda, excepciones, librerias tk ttk, conexion a BD
+#condicionales, ciclos, funciones, clases, objetos, metodos.
+
+
 # importando las librerias necesarias:
 from tkinter import Button, PhotoImage,Label,LabelFrame,W,E,N,S,Entry,END,StringVar,Scrollbar,Toplevel,Tk, font # se importa solo elementos necesarios para optimizar memoria
 from tkinter import ttk  # ttk ofrece widgets similares a tk, pero con una apariencia mas moderna.
