@@ -17,7 +17,7 @@ from typing import Text  #modulo python para la conexion con sqlit
 
 
 class Agenda:               # clase principal que genera el contenedor de ventana principal con ttk
-    nombreBD="contacts.db"
+    nombreBD="contacts.db"     #asignamos  la variable que representa la base de datos, como se tenga en el archivo fuente. si esta en subcarpetas se coloca toda la ruta
     def __init__(self,menu):        #constructor, recibe como parametro un objeto ventana creado en la funcion main
         self.menu = menu            # asignamos el objeto de ventana como propiedad de la clase
         self.menu.title("Agenda ADSI")  #asigna un titulo a la ventana creada que ahora pertenece a la misma clase
