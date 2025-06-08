@@ -1,0 +1,10 @@
+venv/
+.env/
+
+/etc/
+/Include/
+/Lib/
+/Scripts/
+/share/
+
+*.cfg
